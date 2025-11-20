@@ -1,0 +1,9 @@
+OrderID,Product,Category,Quantity,Price,Total,Date
+1001,Laptop,Electronics,1,75000,75000,2025-01-10
+1002,Phone,Electronics,2,20000,40000,2025-01-11
+1003,Tablet,Electronics,1,30000,30000,2025-01-11
+1004,Laptop,Electronics,1,76000,76000,2025-01-12
+1005,Headphones,Accessories,3,3000,9000,2025-01-13
+1006,Phone,Electronics,1,21000,21000,2025-01-13
+1007,Tablet,Electronics,2,29000,58000,2025-01-14
+1008,Laptop,Electronics,1,78000,78000,2025-01-15
